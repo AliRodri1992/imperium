@@ -1,0 +1,2 @@
+class Ciclo < ApplicationRecord
+end
