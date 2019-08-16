@@ -38,3 +38,5 @@ tmp/
 log/
 
 Gemfile.lock
+
+.idea/
